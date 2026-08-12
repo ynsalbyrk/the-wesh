@@ -1,0 +1,40 @@
+◇ injected env (16) from .env // tip: ⌘ enable debugging { debug: true }
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+[WESH SYSTEM] Wesh Music 1 active as ☆ The Wêsh Music A#9881
+[WESH SYSTEM] Wesh Music 1 lavalink-ready node=local serverResume=false libraryResume=false
+[WESH SYSTEM] Wesh Music 2 active as ☆ The Wêsh Music B#9214
+[WESH SYSTEM] Wesh Music 2 lavalink-ready node=local serverResume=false libraryResume=false
+[WESH SYSTEM] Wesh Music 1 slash commands registered.
+[WESH SYSTEM] Wesh Music 2 slash commands registered.
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 play source=scsearch: title=Reynmen - Aykız (Official Audio)
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 play source=ytsearch: title=BLOK3 - KUSURA BAKMA (Official Music Video)
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 recovery reason=(yts.version: 1.18.2) All clients failed to load the item.
+
+Client [MWEB] failed: Must find sig function from script: /s/player/bed7a914/player_embed.vflset/tr_TR/base.js
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.scriptExtractionFailed(LocalSignatureCipherManager.java:324)
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.extractFromScript(LocalSignatureCipherManager.java:301)
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.getCipherScript(LocalSignatureCipherManager.java:206)
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.resolveFormatUrl(LocalSignatureCipherManager.java:126)
+	at dev.lavalink.youtube.track.YoutubeAudioTrack.loadBestFormatWithUrl(YoutubeAudioTrack.java:209)
+
+Client [WEB] failed: No supported audio streams available, available types: 
+	at dev.lavalink.youtube.track.format.TrackFormats.getBestFormat(TrackFormats.java:47)
+	at dev.lavalink.youtube.track.YoutubeAudioTrack.loadBestFormatWithUrl(YoutubeAudioTrack.java:204)
+	at dev.lavalink.youtube.track.YoutubeAudioTrack.processWithClient(YoutubeAudioTrack.java:131)
+	at dev.lavalink.youtube.track.YoutubeAudioTrack.process(YoutubeAudioTrack.java:96)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:109)
+
+Client [WEB_EMBEDDED_PLAYER] failed: Video player configuration error
+	at dev.lavalink.youtube.clients.skeleton.Client.getPlayabilityStatus(Client.java:64)
+	at dev.lavalink.youtube.clients.skeleton.NonMusicClient.loadTrackInfoFromInnertube(NonMusicClient.java:163)
+	at dev.lavalink.youtube.clients.skeleton.StreamingNonMusicClient.loadFormats(StreamingNonMusicClient.java:35)
+	at dev.lavalink.youtube.track.YoutubeAudioTrack.loadBestFormatWithUrl(YoutubeAudioTrack.java:198)
+	at dev.lavalink.youtube.track.YoutubeAudioTrack.processWithClient(YoutubeAudioTrack.java:131)
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 voice-websocket-closed code=1000
+[WESH SYSTEM] Wesh Music 2 lavalink-ready node=local serverResume=true libraryResume=false
+[WESH SYSTEM] Wesh Music 1 lavalink-ready node=local serverResume=true libraryResume=false
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local socket hang up
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=12
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local socket hang up
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=12

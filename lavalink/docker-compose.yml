@@ -1,0 +1,12 @@
+services:
+  lavalink:
+    image: ghcr.io/lavalink-devs/lavalink:4.2.2
+    container_name: wesh-lavalink
+    restart: unless-stopped
+    environment:
+      LAVALINK_SERVER_PASSWORD: ${LAVALINK_PASSWORD}
+      _JAVA_OPTIONS: -Xms256M -Xmx1G
+    ports:
+      - "127.0.0.1:2333:2333"
+    volumes:
+      - ./application.yml:/opt/Lavalink/application.yml:ro

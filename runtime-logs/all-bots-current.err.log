@@ -1,0 +1,24 @@
+[community] [register-2] (node:4120) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[community] [security-2] (node:28528) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[community] [general-2] (node:17072) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[community] [register-1] (node:24656) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[community] [security-3] (node:15692) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[community] [security-1] (node:23824) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[community] [general-1] (node:2528) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[community] [register-3] (node:17940) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[community] [general-1] Dashboard error: listen EADDRINUSE: address already in use 127.0.0.1:3050
+[community] [security-2] Security 2 ses bağlantı hatası: The operation was aborted
+[community] [security-3] Security 3 ses bağlantı hatası: The operation was aborted
+[community] [security-1] Security 1 ses bağlantı hatası: The operation was aborted
+[community] [general-1] Moderatör A ses bağlantı hatası: The operation was aborted
+[community] [security-2] Security 2 ses bağlantı hatası: Cannot perform IP discovery - socket closed
+[community] [security-2] Security 2 ses bağlantı hatası: Cannot perform IP discovery - socket closed
+[music] [WESH SYSTEM] Lavalink 30 saniye içinde hazır olmadı; müzik botları başlatılmadı.

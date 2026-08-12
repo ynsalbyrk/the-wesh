@@ -1,0 +1,224 @@
+{
+  "users": {
+    "703936176590946434": {
+      "id": "703936176590946434",
+      "tag": "45saniye.",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "birthday": null,
+      "daily": {
+        "2026-08-01": {
+          "progress": {
+            "message": 26,
+            "voiceMinutes": 524.56185,
+            "registration": 1
+          },
+          "claimed": false
+        },
+        "2026-08-02": {
+          "progress": {
+            "message": 9,
+            "voiceMinutes": 111.26743333333332
+          },
+          "claimed": false,
+          "createdAt": 1785620698921
+        },
+        "2026-08-03": {
+          "progress": {
+            "voiceMinutes": 128.12995
+          },
+          "claimed": false,
+          "createdAt": 1785724737653
+        }
+      },
+      "weekly": {
+        "2026-07-27": {
+          "progress": {
+            "message": 35,
+            "voiceMinutes": 635.8292833333334,
+            "registration": 1
+          },
+          "claimed": false
+        },
+        "2026-08-03": {
+          "progress": {
+            "voiceMinutes": 128.12995
+          },
+          "claimed": false,
+          "createdAt": 1785724737654
+        }
+      },
+      "lastPeers": [],
+      "lifetime": {
+        "messages": 34,
+        "voiceMinutes": 763.9592333333334,
+        "registrations": 1,
+        "invites": 0
+      }
+    },
+    "927682871764865034": {
+      "id": "927682871764865034",
+      "tag": ".waxorr",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "birthday": null,
+      "daily": {
+        "2026-08-01": {
+          "progress": {
+            "voiceMinutes": 482.12048333333337,
+            "invite": 1,
+            "message": 8
+          },
+          "claimed": false,
+          "createdAt": 1785542642322
+        },
+        "2026-08-02": {
+          "progress": {
+            "message": 11,
+            "voiceMinutes": 60.308416666666666
+          },
+          "claimed": false,
+          "createdAt": 1785618888595
+        },
+        "2026-08-03": {
+          "progress": {
+            "message": 1,
+            "voiceMinutes": 116.51254999999999
+          },
+          "claimed": false,
+          "createdAt": 1785756859259
+        }
+      },
+      "weekly": {
+        "2026-07-27": {
+          "progress": {
+            "voiceMinutes": 542.4289000000001,
+            "invite": 1,
+            "message": 19
+          },
+          "claimed": false,
+          "createdAt": 1785542642322
+        },
+        "2026-08-03": {
+          "progress": {
+            "message": 1,
+            "voiceMinutes": 116.51254999999999
+          },
+          "claimed": false,
+          "createdAt": 1785756859259
+        }
+      },
+      "lifetime": {
+        "messages": 20,
+        "voiceMinutes": 658.94145,
+        "registrations": 0,
+        "invites": 1
+      }
+    },
+    "886187876533014578": {
+      "id": "886187876533014578",
+      "tag": ".wexria",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "birthday": "17-02",
+      "daily": {
+        "2026-08-01": {
+          "progress": {
+            "message": 2,
+            "voiceMinutes": 11.628833333333334
+          },
+          "claimed": false,
+          "createdAt": 1785546904379
+        }
+      },
+      "weekly": {
+        "2026-07-27": {
+          "progress": {
+            "message": 2,
+            "voiceMinutes": 11.628833333333334
+          },
+          "claimed": false,
+          "createdAt": 1785546904379
+        }
+      },
+      "lifetime": {
+        "messages": 2,
+        "voiceMinutes": 11.628833333333334,
+        "registrations": 0,
+        "invites": 0
+      },
+      "birthDate": "17/02/2005"
+    },
+    "939885885028188221": {
+      "id": "939885885028188221",
+      "tag": "yunushype",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "birthday": null,
+      "daily": {
+        "2026-08-01": {
+          "progress": {
+            "voiceMinutes": 0.027516666666666665,
+            "message": 3
+          },
+          "claimed": false,
+          "createdAt": 1785603882908
+        }
+      },
+      "weekly": {
+        "2026-07-27": {
+          "progress": {
+            "voiceMinutes": 0.027516666666666665,
+            "message": 3
+          },
+          "claimed": false,
+          "createdAt": 1785603882908
+        }
+      },
+      "lifetime": {
+        "messages": 3,
+        "voiceMinutes": 0.027516666666666665,
+        "registrations": 0,
+        "invites": 0
+      }
+    },
+    "795002828124323881": {
+      "id": "795002828124323881",
+      "tag": "_wondly",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "birthday": null,
+      "daily": {
+        "2026-08-01": {
+          "progress": {
+            "voiceMinutes": 0.9477333333333333
+          },
+          "claimed": false,
+          "createdAt": 1785605090536
+        }
+      },
+      "weekly": {
+        "2026-07-27": {
+          "progress": {
+            "voiceMinutes": 0.9477333333333333
+          },
+          "claimed": false,
+          "createdAt": 1785605090536
+        }
+      },
+      "lifetime": {
+        "messages": 0,
+        "voiceMinutes": 0.9477333333333333,
+        "registrations": 0,
+        "invites": 0
+      }
+    }
+  },
+  "claimed": {},
+  "meta": {}
+}

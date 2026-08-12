@@ -1,0 +1,6 @@
+◇ injected env (16) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+[WESH SYSTEM] Wesh Music 1 active as ☆ The Wêsh Music A#9881
+[WESH SYSTEM] Wesh Music 1 lavalink-ready node=local serverResume=false libraryResume=false
+[WESH SYSTEM] Wesh Music 1 slash commands registered.
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 play source=ytsearch: title=Kemale Gunesli & Zuleyxa - Sen Varya / 2025
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 voice-reconnect-error=This guild already have an existing connection

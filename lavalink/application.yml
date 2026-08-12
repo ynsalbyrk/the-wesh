@@ -1,0 +1,39 @@
+server:
+  port: 2333
+  address: 0.0.0.0
+  http2:
+    enabled: false
+
+lavalink:
+  server:
+    password: ${LAVALINK_SERVER_PASSWORD}
+    sources:
+      youtube: false
+      soundcloud: true
+      bandcamp: true
+      http: true
+      local: false
+    # More audio held ahead of playback absorbs short network/GC pauses.
+    bufferDurationMs: 4000
+    frameBufferDurationMs: 20000
+    # 10 is Lavalink's best Opus quality setting. MEDIUM avoids turning
+    # resampling into the source of a CPU-related stutter.
+    opusEncodingQuality: 10
+    resamplingQuality: MEDIUM
+    playerUpdateInterval: 5
+    youtubePlaylistLoadLimit: 100
+  plugins:
+    - dependency: dev.lavalink.youtube:youtube-plugin:1.18.2
+      snapshot: false
+
+plugins:
+  youtube:
+    enabled: true
+    allowSearch: true
+    allowDirectVideoIds: true
+    allowDirectPlaylistIds: true
+    clients:
+      - MUSIC
+      - MWEB
+      - WEB
+      - WEBEMBEDDED

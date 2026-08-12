@@ -1,0 +1,68 @@
+◇ injected env (16) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+[WESH SYSTEM] Wesh Music 2 active as ☆ The Wêsh Music B#9214
+[WESH SYSTEM] Wesh Music 2 lavalink-ready node=local serverResume=false libraryResume=false
+[WESH SYSTEM] Wesh Music 1 active as ☆ The Wêsh Music A#9881
+[WESH SYSTEM] Wesh Music 1 lavalink-ready node=local serverResume=false libraryResume=false
+[WESH SYSTEM] Wesh Music 2 slash commands registered.
+[WESH SYSTEM] Wesh Music 1 slash commands registered.
+[WESH SYSTEM] Wesh Music 1 prefix-command-error play Spotify integration is disabled. Use a song title or a supported provider URL.
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 play source=scsearch: title=Yüzyüzeyken Konuşuruz - Bodrum
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 autoplay source=scsearch: title=Pirlo - COMO JERRY
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 play source=scsearch: title=Pirlo - COMO JERRY
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 autoplay source=scsearch: title=Age - Janta Toor
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 play source=scsearch: title=Age - Janta Toor
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 voice-websocket-closed code=1000
+[WESH SYSTEM] Wesh Music 1 prefix-command-error play Spotify integration is disabled. Use a song title or a supported provider URL.
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 voice-websocket-closed code=1000
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local socket hang up
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=12
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local Unexpected server response: 503
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=12
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=11
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=11
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=10
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=10
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=9
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=9
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=8
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=8
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=7
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=7
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=6
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=6
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=5
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=5
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=4
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=4
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=3
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=3
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=2
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=2
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 2 lavalink-reconnecting node=local attemptsLeft=1
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local connect ECONNREFUSED 127.0.0.1:2333
+[WESH SYSTEM] Wesh Music 1 lavalink-reconnecting node=local attemptsLeft=1
+[WESH SYSTEM] Wesh Music 2 lavalink-error node=local Websocket closed before a connection was established
+[WESH SYSTEM] Wesh Music 1 lavalink-error node=local Websocket closed before a connection was established

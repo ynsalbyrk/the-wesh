@@ -1,0 +1,7 @@
+◇ injected env (16) from .env // tip: ⌘ enable debugging { debug: true }
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+[WESH SYSTEM] Wesh Music 1 Discord login failed: Connect Timeout Error (attempted address: discord.com:443, timeout: 10000ms)
+[WESH SYSTEM] Wesh Music 2 Discord login failed: Connect Timeout Error (attempted address: discord.com:443, timeout: 10000ms)
+[WESH SYSTEM] music-2 kapandı: 1
+[WESH SYSTEM] music-1 kapandı: 1

@@ -1,0 +1,41 @@
+{
+  "703936176590946434": {
+    "lists": [
+      {
+        "id": "favorites",
+        "name": "Favoriler",
+        "tracks": [
+          {
+            "query": "reynmen sen var ya sen",
+            "title": "Reynmen - Sen Var Ya",
+            "artist": "EXXENMusicOfficial",
+            "artworkUrl": "https://i1.sndcdn.com/artworks-AROhaxo4m3fHQsch-I93mtg-original.jpg",
+            "savedAt": 1785616691458
+          },
+          {
+            "query": "bodrum",
+            "title": "Yüzyüzeyken Konuşuruz - Bodrum",
+            "artist": "Music World",
+            "artworkUrl": "https://i1.sndcdn.com/artworks-000505282005-tk7dlt-original.jpg",
+            "savedAt": 1785683994725
+          }
+        ]
+      }
+    ]
+  },
+  "927682871764865034": {
+    "lists": [
+      {
+        "id": "favorites",
+        "name": "Favoriler",
+        "tracks": []
+      },
+      {
+        "id": "pl_1785620247142_t7glk",
+        "name": "leyla",
+        "tracks": [],
+        "createdAt": 1785620247142
+      }
+    ]
+  }
+}

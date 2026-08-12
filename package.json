@@ -1,0 +1,32 @@
+{
+  "name": "wesh-discord-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "register1": "node bots/register/register-1/index.js",
+    "register2": "node bots/register/register-2/index.js",
+    "register3": "node bots/register/register-3/index.js",
+    "registers": "node scripts/start-register-bots.js",
+    "bots": "node scripts/start-all-bots.js",
+    "start": "node scripts/start-all-bots.js",
+    "music1": "node bots/register/music-1/index.js",
+    "music2": "node bots/register/music-2/index.js",
+    "music": "node scripts/start-music-bots.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@discordjs/voice": "^0.19.0",
+    "@napi-rs/canvas": "0.1.80",
+    "colors": "^1.4.0",
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2",
+    "ffmpeg-static": "^5.3.0",
+    "mongoose": "^9.9.0",
+    "opusscript": "^0.0.8",
+    "shoukaku": "^4.3.0"
+  }
+}

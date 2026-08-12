@@ -1,0 +1,749 @@
+{
+  "users": {
+    "703936176590946434": {
+      "id": "703936176590946434",
+      "tag": "53saniye.",
+      "messages": 112,
+      "dailyMessages": {
+        "31.07.2026": 11,
+        "01.08.2026": 69,
+        "02.08.2026": 12,
+        "06.08.2026": 4,
+        "07.08.2026": 12,
+        "09.08.2026": 4
+      },
+      "voice": {
+        "actualMs": 87180743,
+        "weightedMs": 50067915,
+        "channels": {
+          "823250917654396940": {
+            "actualMs": 2811394,
+            "weightedMs": 2811394
+          },
+          "823250964001193994": {
+            "actualMs": 4296,
+            "weightedMs": 4296
+          },
+          "827279622512967740": {
+            "actualMs": 634,
+            "weightedMs": 634
+          },
+          "1532843844964585742": {
+            "actualMs": 15632,
+            "weightedMs": 15632
+          },
+          "1532752141238931756": {
+            "actualMs": 18066,
+            "weightedMs": 18066
+          },
+          "843726201247498260": {
+            "actualMs": 43390762,
+            "weightedMs": 25634394
+          },
+          "823250901585231907": {
+            "actualMs": 4308,
+            "weightedMs": 6462
+          },
+          "827548473183698944": {
+            "actualMs": 1201862,
+            "weightedMs": 1201266
+          },
+          "823250936554192926": {
+            "actualMs": 31920814,
+            "weightedMs": 24395110
+          },
+          "1532692643996242002": {
+            "actualMs": 111636,
+            "weightedMs": 111636
+          },
+          "856466900284342292": {
+            "actualMs": 250182,
+            "weightedMs": 250182
+          },
+          "823250892325126144": {
+            "actualMs": 411192,
+            "weightedMs": 411192
+          },
+          "1533131613570072817": {
+            "actualMs": 104653,
+            "weightedMs": 104653
+          },
+          "823250938474266654": {
+            "actualMs": 1846,
+            "weightedMs": 0
+          },
+          "840018099562348584": {
+            "actualMs": 905,
+            "weightedMs": 0
+          },
+          "840018158739259392": {
+            "actualMs": 882,
+            "weightedMs": 0
+          },
+          "840018199084924998": {
+            "actualMs": 1831842,
+            "weightedMs": 4217
+          },
+          "823250890244096081": {
+            "actualMs": 225192,
+            "weightedMs": 225192
+          }
+        },
+        "mutedMs": 44805172
+      },
+      "rank": {
+        "totalPoints": 1999.66,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": 1786306746676,
+        "lastMessageAt": 1786303989249
+      }
+    },
+    "795002828124323881": {
+      "id": "795002828124323881",
+      "tag": "_wondly",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 5683747,
+        "weightedMs": 5441079,
+        "channels": {
+          "823250917654396940": {
+            "actualMs": 5350814,
+            "weightedMs": 5350814
+          },
+          "826173152577060881": {
+            "actualMs": 6777,
+            "weightedMs": 6777
+          },
+          "823250931859980299": {
+            "actualMs": 2751,
+            "weightedMs": 2751
+          },
+          "823250924171690035": {
+            "actualMs": 86,
+            "weightedMs": 86
+          },
+          "823250929720623104": {
+            "actualMs": 4192,
+            "weightedMs": 4192
+          },
+          "1532752141238931756": {
+            "actualMs": 10483,
+            "weightedMs": 10483
+          },
+          "843726201247498260": {
+            "actualMs": 10796,
+            "weightedMs": 21592
+          },
+          "823250926383005727": {
+            "actualMs": 5616,
+            "weightedMs": 5616
+          },
+          "856466900284342292": {
+            "actualMs": 50399,
+            "weightedMs": 50399
+          },
+          "823250938474266654": {
+            "actualMs": 5147,
+            "weightedMs": 5147
+          },
+          "823250936554192926": {
+            "actualMs": 56864,
+            "weightedMs": 29246
+          },
+          "823250965015560232": {
+            "actualMs": 6624,
+            "weightedMs": 6624
+          },
+          "857530678332751873": {
+            "actualMs": 173198,
+            "weightedMs": 173198
+          }
+        },
+        "mutedMs": null
+      },
+      "rank": {
+        "totalPoints": 1.7,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": 1785605134850
+      }
+    },
+    "927682871764865034": {
+      "id": "927682871764865034",
+      "tag": ".waxorr",
+      "messages": 62,
+      "dailyMessages": {
+        "31.07.2026": 7,
+        "01.08.2026": 16,
+        "02.08.2026": 17,
+        "03.08.2026": 2,
+        "06.08.2026": 5,
+        "07.08.2026": 14,
+        "09.08.2026": 1
+      },
+      "voice": {
+        "actualMs": 56726125,
+        "weightedMs": 55080749,
+        "channels": {
+          "823250917654396940": {
+            "actualMs": 5414731,
+            "weightedMs": 5414731
+          },
+          "843726201247498260": {
+            "actualMs": 18999585,
+            "weightedMs": 27470736
+          },
+          "827548473183698944": {
+            "actualMs": 1326507,
+            "weightedMs": 1224028
+          },
+          "823250936554192926": {
+            "actualMs": 23830845,
+            "weightedMs": 23247709
+          },
+          "823250892325126144": {
+            "actualMs": 22506,
+            "weightedMs": 22506
+          },
+          "1533131613570072817": {
+            "actualMs": 106115,
+            "weightedMs": 106115
+          },
+          "1532752141238931756": {
+            "actualMs": 781256,
+            "weightedMs": 1982
+          },
+          "823250890244096081": {
+            "actualMs": 219505,
+            "weightedMs": 219505
+          },
+          "856466900284342292": {
+            "actualMs": 170152,
+            "weightedMs": 170152
+          }
+        },
+        "mutedMs": 6626627
+      },
+      "rank": {
+        "totalPoints": 1890.3300000000004,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": 1786306746670,
+        "lastMessageAt": 1786303684498
+      }
+    },
+    "675457854253301771": {
+      "id": "675457854253301771",
+      "tag": "nikotin53",
+      "messages": 3,
+      "dailyMessages": {
+        "07.08.2026": 3
+      },
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 1,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": 1786051462968,
+        "lastMessageAt": 1786051462979
+      }
+    },
+    "886187876533014578": {
+      "id": "886187876533014578",
+      "tag": ".wexria",
+      "messages": 4,
+      "dailyMessages": {
+        "01.08.2026": 4
+      },
+      "voice": {
+        "actualMs": 772643,
+        "weightedMs": 688165,
+        "mutedMs": 9565,
+        "channels": {
+          "823250936554192926": {
+            "actualMs": 184775,
+            "weightedMs": 184775
+          },
+          "1532692643996242002": {
+            "actualMs": 102599,
+            "weightedMs": 102599
+          },
+          "856466900284342292": {
+            "actualMs": 87856,
+            "weightedMs": 78291
+          },
+          "823250892325126144": {
+            "actualMs": 391997,
+            "weightedMs": 391997
+          },
+          "823250890244096081": {
+            "actualMs": 5416,
+            "weightedMs": 5416
+          }
+        }
+      },
+      "rank": {
+        "totalPoints": 25.03,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": 1785547642773,
+        "lastMessageAt": 1785547083500
+      }
+    },
+    "990262586639536149": {
+      "id": "990262586639536149",
+      "tag": "yunuss0221",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "814561946078281738": {
+      "id": "814561946078281738",
+      "tag": "sudee9734",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "808942370124726312": {
+      "id": "808942370124726312",
+      "tag": "cugyli",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "728526787469901876": {
+      "id": "728526787469901876",
+      "tag": "laurenkxrxcx1293",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "852846353561944074": {
+      "id": "852846353561944074",
+      "tag": "sirexa",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "846378862144126988": {
+      "id": "846378862144126988",
+      "tag": "sad073168",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "839203206311444521": {
+      "id": "839203206311444521",
+      "tag": "minaa00251",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "473802901081554974": {
+      "id": "473802901081554974",
+      "tag": "hasan0803",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "933771956090712185": {
+      "id": "933771956090712185",
+      "tag": "elinaciim",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "790945488840032307": {
+      "id": "790945488840032307",
+      "tag": "neva0135",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "788713870461239367": {
+      "id": "788713870461239367",
+      "tag": "sudeciiiik7467",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "940283540870955110": {
+      "id": "940283540870955110",
+      "tag": "minaa13",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "791283947266506762": {
+      "id": "791283947266506762",
+      "tag": "floriaw6538",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "707970746726482001": {
+      "id": "707970746726482001",
+      "tag": "yusufqwe3377",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "822778475936350208": {
+      "id": "822778475936350208",
+      "tag": "sadecevotka0706",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "548859924872953877": {
+      "id": "548859924872953877",
+      "tag": "psycho022815",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "854420675589963777": {
+      "id": "854420675589963777",
+      "tag": "lauuu1968",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "858082868923334656": {
+      "id": "858082868923334656",
+      "tag": "rooster9577",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "709477572081352830": {
+      "id": "709477572081352830",
+      "tag": "laurays.",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "939885885028188221": {
+      "id": "939885885028188221",
+      "tag": "yunushype",
+      "messages": 10,
+      "dailyMessages": {
+        "01.08.2026": 5,
+        "06.08.2026": 5
+      },
+      "voice": {
+        "actualMs": 1651,
+        "weightedMs": 0,
+        "mutedMs": 1651,
+        "channels": {
+          "843726201247498260": {
+            "actualMs": 1651,
+            "weightedMs": 0
+          }
+        }
+      },
+      "rank": {
+        "totalPoints": 6.01,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": 1785966612037,
+        "lastMessageAt": 1785966612040
+      }
+    },
+    "721112446466785411": {
+      "id": "721112446466785411",
+      "tag": "bayraktareren536776",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 0,
+        "weightedMs": 0,
+        "mutedMs": 0,
+        "channels": {}
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "852627206207307797": {
+      "id": "852627206207307797",
+      "tag": "egemills",
+      "messages": 13,
+      "dailyMessages": {
+        "07.08.2026": 13
+      },
+      "voice": {
+        "actualMs": 135374,
+        "weightedMs": 0,
+        "mutedMs": 135374,
+        "channels": {
+          "823250890244096081": {
+            "actualMs": 135374,
+            "weightedMs": 0
+          }
+        }
+      },
+      "rank": {
+        "totalPoints": 8.129999999999999,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": 1786050608804,
+        "lastMessageAt": 1786050604702
+      }
+    }
+  },
+  "activeVoice": {},
+  "meta": {
+    "lastBackupDate": "2026-08-11",
+    "processedRegistrations": [
+      "823250104361680948:703936176590946434:2026-07-31T13:10:09.373Z:939885885028188221",
+      "823250104361680948:703936176590946434:2026-07-31T15:10:00.952Z:886187876533014578",
+      "823250104361680948:703936176590946434:2026-08-01T01:24:59.892Z:886187876533014578",
+      "823250104361680948:703936176590946434:2026-08-06T21:09:48.139Z:852627206207307797",
+      "823250104361680948:703936176590946434:2026-08-06T21:09:48.246Z:852627206207307797",
+      "823250104361680948:703936176590946434:2026-08-06T21:09:49.047Z:852627206207307797"
+    ],
+    "monthlyReward:2026-7:823250104361680948": true,
+    "birthday:01-08:823250104361680948": true,
+    "anniversary:01-08:823250104361680948": true,
+    "processedBirthdayRegistrations": [
+      "823250104361680948:886187876533014578:17/02/2005:",
+      "823250104361680948:852627206207307797:05/03/2007:"
+    ],
+    "birthday:02-08:823250104361680948": true,
+    "anniversary:02-08:823250104361680948": true,
+    "birthday:04-08:823250104361680948": true,
+    "anniversary:04-08:823250104361680948": true,
+    "birthday:05-08:823250104361680948": true,
+    "anniversary:05-08:823250104361680948": true,
+    "birthday:06-08:823250104361680948": true,
+    "anniversary:06-08:823250104361680948": true,
+    "birthday:07-08:823250104361680948": true,
+    "anniversary:07-08:823250104361680948": true,
+    "birthday:08-08:823250104361680948": true,
+    "anniversary:08-08:823250104361680948": true,
+    "birthday:09-08:823250104361680948": true,
+    "anniversary:09-08:823250104361680948": true,
+    "birthday:11-08:823250104361680948": true,
+    "anniversary:11-08:823250104361680948": true
+  }
+}

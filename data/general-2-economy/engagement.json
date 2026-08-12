@@ -1,0 +1,164 @@
+{
+  "users": {
+    "703936176590946434": {
+      "id": "703936176590946434",
+      "tag": "53saniye.",
+      "coins": 176,
+      "badges": [],
+      "inventory": [],
+      "creditCard": {
+        "limit": 2500,
+        "debt": 0,
+        "installmentPlan": null
+      },
+      "work": {
+        "nextAt": 1786501028785,
+        "pendingUntil": 0,
+        "completed": 1,
+        "successes": 1,
+        "earnings": 176,
+        "lastJobId": "kurye",
+        "lastLevel": "Deneyimli",
+        "lastAt": 1786493828785,
+        "streak": 1,
+        "bestStreak": 1
+      },
+      "daily": {},
+      "weekly": {},
+      "lifetime": {
+        "messages": 71,
+        "voiceMinutes": 1112.1609833333337,
+        "registrations": 1,
+        "invites": 0
+      }
+    },
+    "927682871764865034": {
+      "id": "927682871764865034",
+      "tag": ".waxorr",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "creditCard": {
+        "limit": 2500,
+        "debt": 0,
+        "installmentPlan": null
+      },
+      "work": null,
+      "daily": {},
+      "weekly": {},
+      "lifetime": {
+        "messages": 44,
+        "voiceMinutes": 733.1989333333333,
+        "registrations": 0,
+        "invites": 2
+      }
+    },
+    "886187876533014578": {
+      "id": "886187876533014578",
+      "tag": ".wexria",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "creditCard": {
+        "limit": 2500,
+        "debt": 0,
+        "installmentPlan": null
+      },
+      "work": null,
+      "daily": {},
+      "weekly": {},
+      "lifetime": {
+        "messages": 2,
+        "voiceMinutes": 11.628833333333334,
+        "registrations": 0,
+        "invites": 0
+      }
+    },
+    "939885885028188221": {
+      "id": "939885885028188221",
+      "tag": "yunushype",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "creditCard": {
+        "limit": 2500,
+        "debt": 0,
+        "installmentPlan": null
+      },
+      "work": null,
+      "daily": {},
+      "weekly": {},
+      "lifetime": {
+        "messages": 6,
+        "voiceMinutes": 0.027516666666666665,
+        "registrations": 0,
+        "invites": 0
+      }
+    },
+    "795002828124323881": {
+      "id": "795002828124323881",
+      "tag": "_wondly",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "creditCard": {
+        "limit": 2500,
+        "debt": 0,
+        "installmentPlan": null
+      },
+      "work": null,
+      "daily": {},
+      "weekly": {},
+      "lifetime": {
+        "messages": 0,
+        "voiceMinutes": 0.9477333333333333,
+        "registrations": 0,
+        "invites": 0
+      }
+    },
+    "852627206207307797": {
+      "id": "852627206207307797",
+      "tag": "egemills",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "creditCard": {
+        "limit": 2500,
+        "debt": 0,
+        "installmentPlan": null
+      },
+      "work": null,
+      "daily": {},
+      "weekly": {},
+      "lifetime": {
+        "messages": 7,
+        "voiceMinutes": 0,
+        "registrations": 0,
+        "invites": 0
+      }
+    },
+    "675457854253301771": {
+      "id": "675457854253301771",
+      "tag": "nikotin53",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "creditCard": {
+        "limit": 2500,
+        "debt": 0,
+        "installmentPlan": null
+      },
+      "work": null,
+      "daily": {},
+      "weekly": {},
+      "lifetime": {
+        "messages": 1,
+        "voiceMinutes": 0,
+        "registrations": 0,
+        "invites": 0
+      }
+    }
+  },
+  "claimed": {},
+  "meta": {}
+}

@@ -1,0 +1,46 @@
+[register-1] ◇ injected env (16) from .env // tip: ⌘ enable debugging { debug: true }
+[register-2] ◇ injected env (16) from .env // tip: ⌘ enable debugging { debug: true }
+[register-3] ◇ injected env (16) from .env // tip: ⌘ override existing { override: true }
+[security-1] ◇ injected env (16) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+[security-2] ◇ injected env (16) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+[security-3] ◇ injected env (16) from .env // tip: ⌘ suppress logs { quiet: true }
+[general-1] ◇ injected env (16) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+[general-2] ◇ injected env (16) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+[register-1] ◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+[general-1] [WESH SYSTEM] Unhandled rejection: Connect Timeout Error (attempted address: discord.com:443, timeout: 10000ms)
+[register-1] kapandı: 1
+[register-2] kapandı: 1
+[security-1] kapandı: 1
+[general-2] kapandı: 1
+[register-3] kapandı: 1
+[security-3] kapandı: 1
+[security-2] kapandı: 1
+[general-1] kapandı: 0
+[register-1] yeniden başlatılıyor...
+[register-2] yeniden başlatılıyor...
+[security-1] yeniden başlatılıyor...
+[general-2] yeniden başlatılıyor...
+[register-3] yeniden başlatılıyor...
+[security-3] yeniden başlatılıyor...
+[security-2] yeniden başlatılıyor...
+[general-1] yeniden başlatılıyor...
+[register-2] ◇ injected env (16) from .env // tip: ⌘ override existing { override: true }
+[register-1] ◇ injected env (16) from .env // tip: ⌘ override existing { override: true }
+[security-1] ◇ injected env (16) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+[general-2] ◇ injected env (16) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+[register-3] ◇ injected env (16) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+[security-3] ◇ injected env (16) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+[general-1] ◇ injected env (16) from .env // tip: ⌘ suppress logs { quiet: true }
+[security-2] ◇ injected env (16) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+[register-1] ◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+[register-3] [WESH SYSTEM] Wesh Register 3 aktif oldu — ☆ The Wêsh Register C#3979
+[security-2] Security 2 active: ☆ The Wêsh Security B#1407
+[security-3] Security 3 active: ☆ The Wêsh Security C#2346
+[register-1] [WESH SYSTEM] Wesh Register 1 aktif oldu — ☆ The Wêsh Register A#3849
+[register-3] [WESH SYSTEM] Wesh Register 3: bekleme ses kanalına katıldı.
+[register-2] [WESH SYSTEM] Wesh Register 2 aktif oldu — ☆ The Wêsh Register B#6902
+[security-1] Security 1 active: ☆ The Wêsh Security A#8153
+[general-1] [WESH SYSTEM] Moderatör A active - ☆ The Wêsh Moderatör A#1617
+[general-2] Moderatör B aktif: ☆ The Wêsh Moderatör B#6632
+[general-1] Moderatör A ses kanalına bağlandı.
+[register-3] [WESH SYSTEM] Wesh Register 3: bekleme sesi bağlantı hatası: Cannot perform IP discovery - socket closed

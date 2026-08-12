@@ -1,0 +1,71 @@
+{
+  "users": {
+    "703936176590946434": {
+      "id": "703936176590946434",
+      "tag": "45saniye.",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "birthday": null,
+      "daily": {
+        "2026-08-01": {
+          "progress": {
+            "message": 2,
+            "voiceMinutes": 16.843383333333335
+          },
+          "claimed": false
+        }
+      },
+      "weekly": {
+        "2026-07-27": {
+          "progress": {
+            "message": 2,
+            "voiceMinutes": 16.843383333333335
+          },
+          "claimed": false
+        }
+      },
+      "lastPeers": [],
+      "lifetime": {
+        "messages": 1,
+        "voiceMinutes": 16.843383333333335,
+        "registrations": 0,
+        "invites": 0
+      }
+    },
+    "927682871764865034": {
+      "id": "927682871764865034",
+      "tag": ".waxorr",
+      "coins": 0,
+      "badges": [],
+      "inventory": [],
+      "birthday": null,
+      "daily": {
+        "2026-08-01": {
+          "progress": {
+            "voiceMinutes": 16.84335
+          },
+          "claimed": false,
+          "createdAt": 1785542642322
+        }
+      },
+      "weekly": {
+        "2026-07-27": {
+          "progress": {
+            "voiceMinutes": 16.84335
+          },
+          "claimed": false,
+          "createdAt": 1785542642322
+        }
+      },
+      "lifetime": {
+        "messages": 0,
+        "voiceMinutes": 16.84335,
+        "registrations": 0,
+        "invites": 0
+      }
+    }
+  },
+  "claimed": {},
+  "meta": {}
+}

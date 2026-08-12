@@ -1,0 +1,89 @@
+{
+  "confessions": {
+    "I-MSP6YRKH": {
+      "id": "I-MSP6YRKH",
+      "guildId": "823250104361680948",
+      "authorId": "927682871764865034",
+      "content": "yarram 21 santim",
+      "createdAt": 1786484869649,
+      "status": "pending"
+    },
+    "I-MSP6ZSOT": {
+      "id": "I-MSP6ZSOT",
+      "guildId": "823250104361680948",
+      "authorId": "927682871764865034",
+      "content": "yarram 21 santim ama bazen 12 santim",
+      "createdAt": 1786484917757,
+      "status": "pending"
+    },
+    "I-MSP729LD": {
+      "id": "I-MSP729LD",
+      "guildId": "823250104361680948",
+      "authorId": "927682871764865034",
+      "content": ".31.",
+      "createdAt": 1786485032977,
+      "status": "published",
+      "decidedAt": 1786485044601,
+      "decidedBy": "927682871764865034"
+    },
+    "I-MSQ7XSO1": {
+      "id": "I-MSQ7XSO1",
+      "guildId": "823250104361680948",
+      "authorId": "795002828124323881",
+      "content": "yusuf gay",
+      "createdAt": 1786546970209,
+      "status": "rejected",
+      "reactions": {},
+      "reactedBy": {},
+      "decidedAt": 1786546987966,
+      "decidedBy": "927682871764865034"
+    },
+    "I-MSQ7YHNL": {
+      "id": "I-MSQ7YHNL",
+      "guildId": "823250104361680948",
+      "authorId": "795002828124323881",
+      "content": "yunus gay",
+      "createdAt": 1786547002593,
+      "status": "rejected",
+      "reactions": {},
+      "reactedBy": {},
+      "decidedAt": 1786547006515,
+      "decidedBy": "703936176590946434"
+    },
+    "I-MSQ7YSXK": {
+      "id": "I-MSQ7YSXK",
+      "guildId": "823250104361680948",
+      "authorId": "927682871764865034",
+      "content": "onur gay + seksüel",
+      "createdAt": 1786547017208,
+      "status": "published",
+      "reactions": {
+        "support": 2,
+        "heart": 1,
+        "think": 0
+      },
+      "reactedBy": {
+        "703936176590946434": "heart",
+        "927682871764865034": "support",
+        "795002828124323881": "support"
+      },
+      "decidedAt": 1786547020878,
+      "decidedBy": "703936176590946434"
+    },
+    "I-MSQ8H9K4": {
+      "id": "I-MSQ8H9K4",
+      "guildId": "823250104361680948",
+      "authorId": "795002828124323881",
+      "content": "yusufun 8 adet baklavası , bisepsleri kaslı herkes bisepslerini  istiyor",
+      "createdAt": 1786547878564,
+      "status": "rejected",
+      "reactions": {},
+      "reactedBy": {},
+      "decidedAt": 1786551189207,
+      "decidedBy": "927682871764865034"
+    }
+  },
+  "rooms": {},
+  "marriages": {},
+  "proposals": {}
+}

@@ -1,0 +1,153 @@
+{
+  "users": {
+    "703936176590946434": {
+      "id": "703936176590946434",
+      "tag": "45saniye.",
+      "messages": 11,
+      "dailyMessages": {
+        "31.07.2026": 11
+      },
+      "voice": {
+        "actualMs": 5846593,
+        "weightedMs": 8850937,
+        "channels": {
+          "823250917654396940": {
+            "actualMs": 2811394,
+            "weightedMs": 2811394
+          },
+          "823250964001193994": {
+            "actualMs": 4296,
+            "weightedMs": 4296
+          },
+          "827279622512967740": {
+            "actualMs": 634,
+            "weightedMs": 634
+          },
+          "1532843844964585742": {
+            "actualMs": 15632,
+            "weightedMs": 15632
+          },
+          "1532752141238931756": {
+            "actualMs": 7045,
+            "weightedMs": 7045
+          },
+          "843726201247498260": {
+            "actualMs": 3002190,
+            "weightedMs": 6004380
+          },
+          "823250901585231907": {
+            "actualMs": 4308,
+            "weightedMs": 6462
+          },
+          "827548473183698944": {
+            "actualMs": 1094,
+            "weightedMs": 1094
+          }
+        }
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    },
+    "795002828124323881": {
+      "id": "795002828124323881",
+      "tag": "_wondly",
+      "messages": 0,
+      "dailyMessages": {},
+      "voice": {
+        "actualMs": 5401037,
+        "weightedMs": 5411833,
+        "channels": {
+          "823250917654396940": {
+            "actualMs": 5350814,
+            "weightedMs": 5350814
+          },
+          "826173152577060881": {
+            "actualMs": 6777,
+            "weightedMs": 6777
+          },
+          "823250931859980299": {
+            "actualMs": 2751,
+            "weightedMs": 2751
+          },
+          "823250924171690035": {
+            "actualMs": 86,
+            "weightedMs": 86
+          },
+          "823250929720623104": {
+            "actualMs": 4192,
+            "weightedMs": 4192
+          },
+          "1532752141238931756": {
+            "actualMs": 10483,
+            "weightedMs": 10483
+          },
+          "843726201247498260": {
+            "actualMs": 10796,
+            "weightedMs": 21592
+          },
+          "823250926383005727": {
+            "actualMs": 5616,
+            "weightedMs": 5616
+          },
+          "856466900284342292": {
+            "actualMs": 4375,
+            "weightedMs": 4375
+          },
+          "823250938474266654": {
+            "actualMs": 5147,
+            "weightedMs": 5147
+          }
+        }
+      }
+    },
+    "927682871764865034": {
+      "id": "927682871764865034",
+      "tag": ".waxorr",
+      "messages": 7,
+      "dailyMessages": {
+        "31.07.2026": 7
+      },
+      "voice": {
+        "actualMs": 5441998,
+        "weightedMs": 5469265,
+        "channels": {
+          "823250917654396940": {
+            "actualMs": 5414731,
+            "weightedMs": 5414731
+          },
+          "843726201247498260": {
+            "actualMs": 27267,
+            "weightedMs": 54534
+          }
+        }
+      },
+      "rank": {
+        "totalPoints": 0,
+        "rankGrantedAt": null,
+        "currentRoleId": null,
+        "lastActivityAt": null
+      }
+    }
+  },
+  "activeVoice": {
+    "703936176590946434": {
+      "guildId": "823250104361680948",
+      "channelId": "827548473183698944",
+      "startedAt": 1785532588756,
+      "muted": false,
+      "humanCount": 2
+    },
+    "927682871764865034": {
+      "guildId": "823250104361680948",
+      "channelId": "827548473183698944",
+      "startedAt": 1785532588757,
+      "muted": false,
+      "humanCount": 2
+    }
+  },
+  "meta": {}
+}

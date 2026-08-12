@@ -1,0 +1,15 @@
+◇ injected env (16) from .env // tip: ⌘ enable debugging { debug: true }
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+[WESH SYSTEM] Wesh Music 1 active as ☆ The Wêsh Music A#9881
+[WESH SYSTEM] Wesh Music 1 lavalink-ready node=local serverResume=false libraryResume=false
+[WESH SYSTEM] Wesh Music 2 active as ☆ The Wêsh Music B#9214
+[WESH SYSTEM] Wesh Music 2 lavalink-ready node=local serverResume=false libraryResume=false
+[WESH SYSTEM] Wesh Music 1 slash commands registered.
+[WESH SYSTEM] Wesh Music 2 slash commands registered.
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 play source=scsearch: title=Kolpa & Yaprak Çamlıca - Unutmadım
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 autoplay source=scsearch: title=Era7capone ft. Batuflex - CISTAK ( Official Music)
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 play source=scsearch: title=Era7capone ft. Batuflex - CISTAK ( Official Music)
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 autoplay source=scsearch: title=Feride Hilal Akın & Hakan Tunçbilek - Gizli Aşk
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 play source=scsearch: title=Feride Hilal Akın & Hakan Tunçbilek - Gizli Aşk
+[WESH SYSTEM] Wesh Music 1 music guild=823250104361680948 voice-websocket-closed code=1000

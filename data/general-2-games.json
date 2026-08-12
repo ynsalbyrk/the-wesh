@@ -1,0 +1,85 @@
+{
+  "users": {
+    "703936176590946434": {
+      "balance": 4275,
+      "createdAt": 1786486008626,
+      "generalOneBonus": 20,
+      "wins": 13,
+      "losses": 4,
+      "games": 17,
+      "lastVoiceRewardAt": 1786564317225,
+      "voiceMinutes": 1200,
+      "gamePoints": 845,
+      "voiceRewards": 845
+    },
+    "927682871764865034": {
+      "balance": 6579,
+      "createdAt": 1786487705461,
+      "generalOneBonus": 20,
+      "wins": 18,
+      "losses": 4,
+      "games": 22,
+      "lastVoiceRewardAt": 1786564317225,
+      "voiceMinutes": 1200,
+      "gamePoints": 1227,
+      "voiceRewards": 1227
+    },
+    "795002828124323881": {
+      "balance": 21,
+      "createdAt": 1786547300444,
+      "gamePoints": 0,
+      "voiceMinutes": 0,
+      "voiceRewards": 0,
+      "wins": 3,
+      "losses": 5,
+      "games": 8
+    }
+  },
+  "sessions": {
+    "mines-msq8c894-lk7c": {
+      "id": "mines-msq8c894-lk7c",
+      "type": "mines",
+      "userId": "795002828124323881",
+      "bet": 400,
+      "mines": [
+        11,
+        18,
+        19
+      ],
+      "opened": [],
+      "expiresAt": 1786547943592
+    }
+  },
+  "banks": {
+    "927682871764865034": {
+      "ownerId": "927682871764865034",
+      "cardNumber": "1454 1343 6832 3305",
+      "openedAt": 1786487647598,
+      "cash": 500,
+      "bankBalance": 0,
+      "corporateCard": null
+    },
+    "703936176590946434": {
+      "ownerId": "703936176590946434",
+      "cardNumber": "7602 8970 6148 5354",
+      "openedAt": 1786488045337,
+      "cash": 500,
+      "bankBalance": 0,
+      "corporateCard": null
+    },
+    "795002828124323881": {
+      "ownerId": "795002828124323881",
+      "cardNumber": "2143 4018 2051 1691",
+      "openedAt": 1786547532912,
+      "cash": 500,
+      "bankBalance": 0,
+      "corporateCard": null
+    }
+  },
+  "businesses": {},
+  "loans": {},
+  "marriages": {},
+  "proposals": {},
+  "transfers": [],
+  "economyMigrationCompletedAt": 1786554965594
+}

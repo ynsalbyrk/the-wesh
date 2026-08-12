@@ -1,0 +1,117 @@
+[register-2] node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+ConnectTimeoutError: Connect Timeout Error (attempted address: discord.com:443, timeout: 10000ms)
+    at onConnectTimeout (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:237:24)
+    at Immediate._onImmediate (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:188:35)
+    at process.processImmediate (node:internal/timers:504:21) {
+  code: 'UND_ERR_CONNECT_TIMEOUT',
+  Symbol(undici.error.UND_ERR): true,
+  Symbol(undici.error.UND_ERR_CONNECT_TIMEOUT): true
+}
+
+Node.js v24.18.1
+[security-2] node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+ConnectTimeoutError: Connect Timeout Error (attempted address: discord.com:443, timeout: 10000ms)
+    at onConnectTimeout (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:237:24)
+    at Immediate._onImmediate (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:188:35)
+    at process.processImmediate (node:internal/timers:504:21) {
+  code: 'UND_ERR_CONNECT_TIMEOUT',
+  Symbol(undici.error.UND_ERR): true,
+  Symbol(undici.error.UND_ERR_CONNECT_TIMEOUT): true
+}
+
+Node.js v24.18.1
+[general-2] node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+ConnectTimeoutError: Connect Timeout Error (attempted address: discord.com:443, timeout: 10000ms)
+    at onConnectTimeout (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:237:24)
+    at Immediate._onImmediate (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:188:35)
+    at process.processImmediate (node:internal/timers:504:21) {
+  code: 'UND_ERR_CONNECT_TIMEOUT',
+  Symbol(undici.error.UND_ERR): true,
+  Symbol(undici.error.UND_ERR_CONNECT_TIMEOUT): true
+}
+
+Node.js v24.18.1
+[register-3] node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+ConnectTimeoutError: Connect Timeout Error (attempted address: discord.com:443, timeout: 10000ms)
+    at onConnectTimeout (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:237:24)
+    at Immediate._onImmediate (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:188:35)
+    at process.processImmediate (node:internal/timers:504:21) {
+  code: 'UND_ERR_CONNECT_TIMEOUT',
+  Symbol(undici.error.UND_ERR): true,
+  Symbol(undici.error.UND_ERR_CONNECT_TIMEOUT): true
+}
+
+Node.js v24.18.1
+[security-3] node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+ConnectTimeoutError: Connect Timeout Error (attempted address: discord.com:443, timeout: 10000ms)
+    at onConnectTimeout (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:237:24)
+    at Immediate._onImmediate (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:188:35)
+    at process.processImmediate (node:internal/timers:504:21) {
+  code: 'UND_ERR_CONNECT_TIMEOUT',
+  Symbol(undici.error.UND_ERR): true,
+  Symbol(undici.error.UND_ERR_CONNECT_TIMEOUT): true
+}
+
+Node.js v24.18.1
+[security-1] node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+ConnectTimeoutError: Connect Timeout Error (attempted address: discord.com:443, timeout: 10000ms)
+    at onConnectTimeout (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:237:24)
+    at Immediate._onImmediate (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:188:35)
+    at process.processImmediate (node:internal/timers:504:21) {
+  code: 'UND_ERR_CONNECT_TIMEOUT',
+  Symbol(undici.error.UND_ERR): true,
+  Symbol(undici.error.UND_ERR_CONNECT_TIMEOUT): true
+}
+
+Node.js v24.18.1
+[register-1] node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+ConnectTimeoutError: Connect Timeout Error (attempted address: discord.com:443, timeout: 10000ms)
+    at onConnectTimeout (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:237:24)
+    at Immediate._onImmediate (C:\Users\ynsal\Wesh-Discord-System\node_modules\undici\lib\core\connect.js:188:35)
+    at process.processImmediate (node:internal/timers:504:21) {
+  code: 'UND_ERR_CONNECT_TIMEOUT',
+  Symbol(undici.error.UND_ERR): true,
+  Symbol(undici.error.UND_ERR_CONNECT_TIMEOUT): true
+}
+
+Node.js v24.18.1
+[register-3] (node:36276) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[security-2] (node:12924) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[security-3] (node:25444) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[register-1] (node:25968) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[register-2] (node:3312) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[security-1] (node:2140) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[general-1] (node:28564) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[general-1] Dashboard error: listen EADDRINUSE: address already in use 127.0.0.1:3050
+[general-2] (node:32816) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[security-3] Security 3 ses bağlantı hatası: Cannot perform IP discovery - socket closed
+[security-3] Security 3 ses bağlantı hatası: Cannot perform IP discovery - socket closed
